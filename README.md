@@ -53,15 +53,11 @@ Hey there, Chris here! 👋<br><br>I'm a passionate full stack developer! 💻<b
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kuraica153&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Kuraica153&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuraica153&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+| ![Stats](https://github-readme-stats.vercel.app/api?username=kuraica153&count_private=true&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true&bg_color=0D1117) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=claudiobo&theme=github-dark-blue&hide_border=true) | 
+| :-: | :-: |  
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kuraica153&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kuraica153&icon=0&color=0)](https://visitcount.itsvg.in)
